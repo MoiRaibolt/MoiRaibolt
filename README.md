@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou o Moisés Raibolt 👋
 
-<!--
-**MoiRaibolt/MoiRaibolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Atualmente, estou trabalhando em projetos de automação e análise de dados.
 
-Here are some ideas to get you started:
+🌱 Estou aprendendo mais sobre Python, APIs e DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Pergunte-me sobre Python, automação e desenvolvimento de software.
+
+📫 Como me encontrar:
+- [LinkedIn](https://www.linkedin.com/in/moisesraibolt/)
+- [Email](moisesraibolt@gmail.com)
+
+⚡ Fato engraçado: Sou apaixonado por resolver problemas com código e café ☕
