@@ -9,7 +9,7 @@
 ### 🧠 Sobre mim
 
 - 🔭 Atualmente trabalhando em projetos pessoais e contribuindo com a comunidade
-- 🌱 Aprendendo mais sobre **Python**, **APIs**, **automação** e **DevOps**
+- 🌱 Aprendendo mais sobre **Python**, **APIs**, **automação** e **DevOps**                      
 - 🧩 Gosto de resolver problemas usando código e pensar fora da caixa
 - ⚡ Fato curioso: Café + código = felicidade ☕
 
@@ -52,7 +52,4 @@
   Obrigado por visitar meu perfil! Volte sempre! 👋
 </p>
 
-<p align="center">
-  <img src="notebook.png" width="400"/>
-</p>
 
