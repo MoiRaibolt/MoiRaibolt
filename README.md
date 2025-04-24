@@ -20,7 +20,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -45,11 +44,15 @@
 ### 📫 Onde me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/moisesraibolt/)
-- 🐦 [Twitter](https://twitter.com/MoiRaibolt)
-- 📧 moises@raibolt.com
+- 📧 moisesraibolt@gmail.com
 
 ---
 
 <p align="center">
   Obrigado por visitar meu perfil! Volte sempre! 👋
 </p>
+
+<p align="center">
+  <img src="notebook.png" width="400"/>
+</p>
+
