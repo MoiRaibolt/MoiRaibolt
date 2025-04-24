@@ -1,8 +1,20 @@
-<h1 align="center">Olá, eu sou o Moisés Raibolt 👋</h1>
+<table>
+  <tr>
+    <td>
 
-<p align="center">
-  💻 Desenvolvedor em constante aprendizado | 🚀 Apaixonado por automação, Python e DevOps
-</p>
+🎓 Moisés Raibolt  
+Desenvolvedor apaixonado por automação, dados e tecnologia.
+
+🧠 Aprendendo sempre, praticando todos os dias.  
+💡 Explorando o mundo da tecnologia com Python e DevOps.
+    </td>
+    <td>
+      <img src="https://github.com/MoiRaibolt/MoiRaibolt/blob/main/notebook%20and%20coffee.png" width="300"/>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
